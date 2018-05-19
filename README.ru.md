@@ -3,16 +3,16 @@
 # uptick
 Swiss army knife for interacting with the Transnet blockchain.
 
-## Installation
+## Установка
 ```
 pip install git+https://github.com/u-transnet/uptick
 ```
 
-## Documentation
+## Документация
 
 The full-length documentation can be found on [http://uptick.rocks](http://uptick.rocks).
 
-## Public API
+## Публичное API
 
 The public API node at `this.uptick.rocks` serves as an experimental
 endpoint. 
@@ -22,12 +22,13 @@ endpoint.
 * Do not expect it to be reliable
 * Do not spam it with unnecessary load
 
-## Related projects
+
+## Связанные проекты
 - [python-utransnet](https://github.com/u-transnet/python-utransnet)
 
-## Contributing
-We'd love to have your helping hand on our project! See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
+## Сотрудничество
+Мы будем рады вашей помощи в развитии проекта! Откройте [CONTRIBUTING.ru.md](CONTRIBUTING.ru.md) для того, чтобы узнать чем Вы можете поможете помочь проекту и как присоединиться
 
-## License
-Project is under the MIT license. See [LICENSE](LICENSE) for more information.
+## Лицензия
+Проект использует MIT лицензию. Откройте [LICENSE](LICENSE) для подробностей
 
